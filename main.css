@@ -1,0 +1,41 @@
+
+body {
+  background-color: #f6f6f6;
+} 
+.taddy > h1 {
+  font-size: 20px;
+}
+.click > a {
+  background-color: #31CB00;
+  color: #2B2D42;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 35%;
+  text-decoration: none;
+}
+.taddy > h1 {
+  margin: 5%;
+ color: #19190f; 
+}
+.my > h1 {
+  color: #606;
+  
+  
+}
+.t > a {
+  background-color: #4d3e02;
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 10px;
+  text-decoration: none;
+  margin: 35%
+}
+.ff > img {
+  margin: 10%;
+}
+.ju > h1 {
+  color: #606;
+}
+.gf > h1 {
+  color: #31CB00;
+}
